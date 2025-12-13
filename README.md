@@ -68,7 +68,7 @@ This repository includes at least:
 - **Neural Network (MLP)**
   - Flexible nonlinear model; may capture more complex patterns than a tree baseline.
 
-Hyperparameter tuning is included as part of the workflow. :contentReference[oaicite:4]{index=4}
+Hyperparameter tuning is included as part of the workflow. 
 
 ---
 
