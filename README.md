@@ -33,7 +33,7 @@ This project uses the widely-referenced **Telco Customer Churn** dataset (IBM sa
 ---
 
 ## Repository Structure
-.
+.  
 ├── Course_Work.ipynb # Main notebook: EDA → preprocessing → modeling → evaluation → ethics  
 ├── Telco-Customer-Churn-dataset.csv # Dataset used by the notebook  
 └── README.md # Project documentation  
@@ -96,7 +96,7 @@ Results and plots are generated directly in the notebook.
    git clone https://github.com/Chanthul4054/Telco-Customer-Churn-Prediction.git
    cd Telco-Customer-Churn-Prediction
    
-2.Create and activate a virtual environment
+2. Create and activate a virtual environment
   python -m venv .venv
   ## Windows:
   ```bash
@@ -107,7 +107,7 @@ Results and plots are generated directly in the notebook.
   source .venv/bin/activate
 ```
 
-3.Install dependencies
+3. Install dependencies
 ```bash
 pip install -U pip
 pip install numpy pandas scikit-learn matplotlib seaborn jupyter
@@ -115,7 +115,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 pip install tensorflow
 ```
 
-4.Launch Jupyter
+4. Launch Jupyter
+   
 Open Course_Work.ipynb and run the cells top-to-bottom.
 
 ---
