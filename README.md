@@ -99,29 +99,41 @@ Results and plots are generated directly in the notebook.
 2.Create and activate a virtual environment
   python -m venv .venv
   # Windows:
+  ```bash
   .venv\Scripts\activate
+```
   # macOS/Linux:
+  ```bash
   source .venv/bin/activate
+```
 
 3.Install dependencies
+```bash
 pip install -U pip
 pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 # If your notebook uses TensorFlow/Keras:
 pip install tensorflow
+```
 
 4.Launch Jupyter
 Open Course_Work.ipynb and run the cells top-to-bottom.
 
-###Option B — Run in Google Colab
+---
+
+### Option B — Run in Google Colab
   Upload Course_Work.ipynb and Telco-Customer-Churn-dataset.csv to Colab.
   Update the dataset path in the notebook if needed.
 
-##Reproducibility
+  ---
+
+## Reproducibility
 - Random seeds can be set to ensure consistent results
 - Preprocessing steps should be reused exactly during inference
 - Models should be retrained if the dataset changes
 
-##Ethical Considerations
+---
+
+## Ethical Considerations
 This project discusses ethical implications of churn prediction models, including:
 
 - Bias and fairness in customer targeting
@@ -131,7 +143,9 @@ This project discusses ethical implications of churn prediction models, includin
 
 Ethical evaluation is included as part of the notebook analysis.
 
-##Technologies Used
+---
+
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -142,5 +156,9 @@ Ethical evaluation is included as part of the notebook analysis.
 - seaborn
 - TensorFlow / Keras
 
+---
+
 Author
 Chanthul4054
+
+---
