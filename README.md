@@ -97,7 +97,9 @@ Results and plots are generated directly in the notebook.
    cd Telco-Customer-Churn-Prediction
    
 2. Create and activate a virtual environment
-  python -m venv .venv
+```bash
+    python -m venv .venv
+```
   ## Windows:
   ```bash
   .venv\Scripts\activate
@@ -109,10 +111,10 @@ Results and plots are generated directly in the notebook.
 
 3. Install dependencies
 ```bash
-pip install -U pip
-pip install numpy pandas scikit-learn matplotlib seaborn jupyter
-# If your notebook uses TensorFlow/Keras:
-pip install tensorflow
+   pip install -U pip
+   pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+   # If your notebook uses TensorFlow/Keras:
+   pip install tensorflow
 ```
 
 4. Launch Jupyter
