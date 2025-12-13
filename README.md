@@ -34,9 +34,9 @@ This project uses the widely-referenced **Telco Customer Churn** dataset (IBM sa
 
 ## Repository Structure
 .
-├── Course_Work.ipynb # Main notebook: EDA → preprocessing → modeling → evaluation → ethics
-├── Telco-Customer-Churn-dataset.csv # Dataset used by the notebook
-└── README.md # Project documentation
+├── Course_Work.ipynb # Main notebook: EDA → preprocessing → modeling → evaluation → ethics  
+├── Telco-Customer-Churn-dataset.csv # Dataset used by the notebook  
+└── README.md # Project documentation  
 
 :contentReference[oaicite:3]{index=3}
 
@@ -98,11 +98,11 @@ Results and plots are generated directly in the notebook.
    
 2.Create and activate a virtual environment
   python -m venv .venv
-  # Windows:
+  ## Windows:
   ```bash
   .venv\Scripts\activate
 ```
-  # macOS/Linux:
+  ## macOS/Linux:
   ```bash
   source .venv/bin/activate
 ```
@@ -158,7 +158,7 @@ Ethical evaluation is included as part of the notebook analysis.
 
 ---
 
-Author
+Author  
 Chanthul4054
 
 ---
