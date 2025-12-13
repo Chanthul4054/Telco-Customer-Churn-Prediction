@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-Binary classification project using the Telco Customer Churn dataset. The workflow covers exploratory data analysis (EDA), preprocessing, model development (Neural Network and Decision Tree), hyperparameter tuning, evaluation, and an ethical analysis of ML deployment. :contentReference[oaicite:0]{index=0}
+Binary classification project using the Telco Customer Churn dataset. The workflow covers exploratory data analysis (EDA), preprocessing, model development (Neural Network and Decision Tree), hyperparameter tuning, evaluation, and an ethical analysis of ML deployment. 
 
 ---
 
@@ -38,7 +38,7 @@ This project uses the widely-referenced **Telco Customer Churn** dataset (IBM sa
 ├── Telco-Customer-Churn-dataset.csv # Dataset used by the notebook  
 └── README.md # Project documentation  
 
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
