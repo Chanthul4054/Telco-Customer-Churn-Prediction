@@ -21,12 +21,12 @@ Binary classification project using the Telco Customer Churn dataset. The workfl
 ---
 
 ## Project Overview
-Customer churn prediction helps telecom providers identify customers likely to leave and take proactive retention actions. This repository implements an end-to-end ML workflow for churn prediction, including EDA, feature preprocessing, supervised modeling, and model evaluation. :contentReference[oaicite:1]{index=1}
+Customer churn prediction helps telecom providers identify customers likely to leave and take proactive retention actions. This repository implements an end-to-end ML workflow for churn prediction, including EDA, feature preprocessing, supervised modeling, and model evaluation. 
 
 ---
 
 ## Dataset
-This project uses the widely-referenced **Telco Customer Churn** dataset (IBM sample dataset, commonly mirrored on Kaggle). The target label is typically `Churn` (Yes/No), with features spanning customer demographics, service subscriptions, and billing/contract information. :contentReference[oaicite:2]{index=2}
+This project uses the widely-referenced **Telco Customer Churn** dataset (IBM sample dataset, commonly mirrored on Kaggle). The target label is typically `Churn` (Yes/No), with features spanning customer demographics, service subscriptions, and billing/contract information.
 
 > Note: A CSV copy is included in this repository for convenience.
 
